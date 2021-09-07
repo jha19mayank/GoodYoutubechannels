@@ -56,7 +56,7 @@ const channelDb = {
     {
       name: "Harsh Beniwal",
       rating: "5/5",
-      LittleDescription: "His team is fabolous"
+      LittleDescription: "His team is fabulous"
     },
     {
       name: "Aashish Chanchalni",
